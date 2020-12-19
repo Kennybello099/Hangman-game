@@ -1,1 +1,1 @@
-# Hangman-game
+# A Hangman game is a game whereby you guesses word with the number of dashes given which represent the characters of a given word. The hang man game is in multiple levels. If the word guess is right the program print out you won and bring out the word you have guessed correctly, and if the guesses word is wrong the program print out you loose and tells you to try again. The hangman game is in multiple levels which are easy and difficult level.  
